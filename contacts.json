@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "firstname": "Souritra",
+      "lastname": "Santra",
+      "email": "sou@gmail.com",
+      "homeNo": "+91 9876543210",
+      "workNo": "6541239870",
+      "birthdate": "2022-04-03",
+      "company": "fdhg",
+      "jobTitle": "fegd",
+      "notes": "dfgs",
+      "id": 1
+    },
+    {
+      "firstname": "asddff",
+      "lastname": "sdfsd",
+      "email": "askd@gmail.com",
+      "homeNo": "+91 8765432109",
+      "workNo": "9876543129",
+      "birthdate": "2022-03-28",
+      "company": "asdf",
+      "jobTitle": "as",
+      "notes": "asdasd",
+      "id": 2
+    }
+  ]
+}
